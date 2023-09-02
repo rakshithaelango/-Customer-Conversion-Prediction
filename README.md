@@ -89,7 +89,13 @@ HANDLING OUTLIERS:
 
 ![1693643345976](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/ce53d88c-d6cc-4e97-84e5-d7be35ad1eb0)
     
+* DURATION AND TREATING DURATION BY USING BOXPLOT:
+  
+![1693643655327](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/5389e682-36ab-4726-beea-5a3f8deaa652)
+![1693643655321](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/c0948b73-4b2d-4464-a0fb-d207c30564fc)
 
+* NUM_CALLS AND TREATING NUM_CALLS BY USING BOXPLOT:
+  
 * STEP 6:  Encoding the data.
 The process of converting the categorical features into numeric features.
 
