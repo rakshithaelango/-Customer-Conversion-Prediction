@@ -152,6 +152,7 @@ Bivariate analysis feature of Categorical Columns..
    *  For Scaling purpose I used Standard scaler.
 
 * STEP 8: Model Building.
+  
   In this step 3 Machine learning models used. 
 
  •	Logistic Regression.
@@ -176,7 +177,7 @@ Bivariate analysis feature of Categorical Columns..
 ![1693647562842](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/71a4473f-220b-4862-a8bd-c9cb1801e423)
 ![1693647562837](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/73416839-87a9-4e2d-9f96-67c775c54b02)
 
-* Final Conclusion.
+## Final Conclusion.
   Based on the model Evaluation. Got the good score in Customer Conversion Prediction.
 
  
