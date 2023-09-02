@@ -71,7 +71,7 @@ After importing all the necessary packages. Next step is to load the Data by usi
 
 * STEP 4:  Data cleaning AND Data Pre-processing.
   
-In this step, we understand more about the data and prepare it for further analysis. Cleaning data essentially means removing discrepancies from data such as missing fields, improper values, setting the right format of the data, structuring data from raw files And By Analysing the statistical methods handle the outliers and treating the outliers by using box plot.
+In this step, we understand more about the data and prepare it for further analysis. Cleaning data essentially means removing discrepancies from data such as missing fields, improper values, setting the right format of the data, structuring data from raw files And By Analysing the statistical methods handle the outliers and treated the outliers by using box plot.
 
 HANDLING OUTLIERS:
 
