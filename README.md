@@ -21,10 +21,12 @@ In this project, I used googleColab  as IDE for Python Programming Language.
 
 # Project In-Detailed :
 
-Step 1:  Understanding the whole dataset.
+* Step 1: Understanding the whole dataset.
+  
 First and foremost we need to understand the concept of the data. In this Customer Conversion Prediction this is an logistics regression based problem in that It has an target variable so, it is classification problem . In class it is Binary classification problem.
 
-Step 2:  Importing all the necessary python libraries.
+* Step 2:  Importing all the necessary python libraries.
+
 Import all the necessary libraries.
 
 import pandas as pd
@@ -63,7 +65,8 @@ import warnings
 
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-# Step 3:  Loading the dataset.
+* Step 3:  Loading the dataset.
+
 After importing all the necessary packages. Next step is to load the Data by using .csv Format.
 
 
