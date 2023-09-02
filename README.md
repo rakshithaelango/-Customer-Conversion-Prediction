@@ -81,7 +81,9 @@ And handling outliers in this method I have  used box plot.
 HANDLING OUTLIERS:
 
 * AGE AND TREATING AGE BY USING BOXPLOT:
-![1693642686144](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/fa4c5e78-44c8-42b0-9e10-2cdd6b7728e1)
+
+![IMG_20230902_135102](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/c028eca8-f2b6-4d9b-9b39-36b94fca4d19)
+![IMG_20230902_135206 (1)](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/b9d6bcb9-42fd-42e8-847d-d2854182ec44)
 
 
     
