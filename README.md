@@ -99,14 +99,21 @@ HANDLING OUTLIERS:
 This EDA is the backbone of data science. To analyz  and investigate the data sets and summarize their main characteristics. By using data visualization methods. 
 
 TARGET VARIABLES: 
+
 ![1693644888988](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/990ee5bd-9af4-43c2-9dcd-260dde6ed718)
 
 BY,This we can clearly see huge imbalanced data occur.
 
 Univariate analysis feature of categorical variables.
+
 In this Categorical Variable: Job, Marital_Status, Education_Qualification, Call_type, Month and Prev_Outcome.
 
-
+![1693644888972](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/b1dd91eb-b84d-4429-9b3a-27d55800a897)
+![1693644888965](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/b7f1c053-fdb1-4be7-b60b-292ffd594f8a)
+![1693644888968](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/bb7ca907-dfc4-4469-a674-62e877675831)
+![1693644888981](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/866abc21-e7b3-4b4b-ba61-200b39f007cb)
+![1693644888977](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/c343f7eb-c72b-4567-9dc4-6a89785b6144)
+![1693644888985](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/52537b8b-5ccf-4283-a47e-af7846e2607b)
 
 
 
