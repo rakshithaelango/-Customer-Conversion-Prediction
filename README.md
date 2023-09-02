@@ -115,6 +115,16 @@ In this Categorical Variable: Job, Marital_Status, Education_Qualification, Call
 ![1693644888977](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/c343f7eb-c72b-4567-9dc4-6a89785b6144)
 ![1693644888985](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/52537b8b-5ccf-4283-a47e-af7846e2607b)
 
+Univariate analysis feature of numerical variables.
+
+In this numerical Variable: Age, Day, Num_calls. 
+
+Call duration impact the model to subcribe the insurance. num_calls made also the reason to sbscribe the insurance.
+
+![1693645956035](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/a5f94ddb-cfb5-4751-8514-ef584e7d9b8c)
+![1693645956040](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/898d2ed2-b1b5-4a93-aadd-32b8aabac081)
+![1693645956045](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/53d56d76-5c8e-406f-8cbe-9e37ebe4eff8)
+
 
 
 * STEP 6:  Encoding the data.
