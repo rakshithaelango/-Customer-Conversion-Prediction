@@ -26,23 +26,41 @@ First and foremost we need to understand the concept of the data. In this Custom
 
 Step 2:  Importing all the necessary python libraries.
 Import all the necessary libraries.
+
 import pandas as pd
+
 import numpy as np
+
 import seaborn as sns 
+
 import matplotlib.pyplot as plt
+
 from sklearn.preprocessing import StandardScaler 
+
 from sklearn.metrics import roc_curve
+
 from sklearn.preprocessing import LabelEncoder
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.linear_model import LogisticRegression 
+
 from sklearn.ensemble import RandomForestClassifier
+
 import xgboost as xgb
+
 from sklearn import tree
+
 from sklearn.tree import DecisionTreeClassifier
+
 from sklearn.metrics import accuracy_score
+
 from sklearn.metrics import roc_auc_score,confusion_matrix
+
 from imblearn.combine import SMOTETomek
+
 import warnings
+
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 # Step 3:  Loading the dataset.
