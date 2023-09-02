@@ -85,7 +85,9 @@ HANDLING OUTLIERS:
 ![IMG_20230902_135102](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/c028eca8-f2b6-4d9b-9b39-36b94fca4d19)
 ![IMG_20230902_135206 (1)](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/b9d6bcb9-42fd-42e8-847d-d2854182ec44)
 
+* DAY NO OUTLIER IS FOUND:
 
+![1693643345976](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/ce53d88c-d6cc-4e97-84e5-d7be35ad1eb0)
     
 
 * STEP 6:  Encoding the data.
