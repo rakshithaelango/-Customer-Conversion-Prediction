@@ -5,19 +5,45 @@
 
 In this project. We're going to predict if the customer will subscribe to our term insurance or not in telephonic marketing campaign using Machine Learning Models.
 
-# Project Approach :
+From the Given DataSet is:
+
+* It is Supervised Machine Learning.
+
+* We have target variable y.
+
+* It is classification problem.
+
+* y is a continuous variable.
+
+## Project Approach :
 
 In this project, I used googleColab  as IDE for Python Programming Language.
 
 # Project In-Detailed :
 
-# Step 1:  Understanding the whole dataset.
+Step 1:  Understanding the whole dataset.
 First and foremost we need to understand the concept of the data. In this Customer Conversion Prediction this is an logistics regression based problem in that It has an target variable so, it is classification problem . In class it is Binary classification problem.
 
-
-# Step 2:  Importing all the necessary python libraries.
+Step 2:  Importing all the necessary python libraries.
 Import all the necessary libraries.
-
+import pandas as pd
+import numpy as np
+import seaborn as sns 
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler 
+from sklearn.metrics import roc_curve
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression 
+from sklearn.ensemble import RandomForestClassifier
+import xgboost as xgb
+from sklearn import tree
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import roc_auc_score,confusion_matrix
+from imblearn.combine import SMOTETomek
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 # Step 3:  Loading the dataset.
 After importing all the necessary packages. Next step is to load the Data by using .csv Format.
