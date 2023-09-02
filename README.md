@@ -96,6 +96,9 @@ HANDLING OUTLIERS:
 
 * NUM_CALLS AND TREATING NUM_CALLS BY USING BOXPLOT:
   
+![1693644012380](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/f742b275-7a43-4f48-95c2-4eb43200d343)
+![1693644012376](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/6d13b659-91e1-45f9-94e7-4bef25beaac1)
+
 * STEP 6:  Encoding the data.
 The process of converting the categorical features into numeric features.
 
