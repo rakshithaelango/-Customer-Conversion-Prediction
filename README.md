@@ -106,7 +106,7 @@ BY,This we can clearly see huge imbalanced data occur.
 
 Univariate analysis feature of categorical variables.
 
-In this Categorical Variable: Job, Marital_Status, Education_Qualification, Call_type, Month and Prev_Outcome.
+    * In this Categorical Variable: Job, Marital_Status, Education_Qualification, Call_type, Month and Prev_Outcome.
 
 ![1693644888972](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/b1dd91eb-b84d-4429-9b3a-27d55800a897)
 ![1693644888965](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/b7f1c053-fdb1-4be7-b60b-292ffd594f8a)
@@ -117,9 +117,9 @@ In this Categorical Variable: Job, Marital_Status, Education_Qualification, Call
 
 Univariate analysis feature of numerical variables.
 
-In this numerical Variable: Age, Day, Num_calls. 
+   * In this numerical Variable: Age, Day, Num_calls. 
 
-Call duration impact the model to subcribe the insurance. num_calls made also the reason to sbscribe the insurance.
+   * Call duration impact the model to subcribe the insurance. num_calls made also the reason to sbscribe the insurance.
 
 ![1693645956035](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/a5f94ddb-cfb5-4751-8514-ef584e7d9b8c)
 ![1693645956040](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/898d2ed2-b1b5-4a93-aadd-32b8aabac081)
@@ -128,7 +128,7 @@ Call duration impact the model to subcribe the insurance. num_calls made also th
 
 Bivariate analysis feature of Categorical Columns..
 
-In this  Categorical Variable: Job, Marital_Status, Education_Qualification, Call_type, Month, Prev_Outcome And Y.
+  * In this  Categorical Variable: Job, Marital_Status, Education_Qualification, Call_type, Month, Prev_Outcome And Y.
 
 ![1693647152916](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/6bb536db-4f07-45bb-8691-a7d3875d17e7)
 ![1693647152910](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/4efc2e08-03f1-4dfc-9ca6-d782a9d58af1)
@@ -139,7 +139,7 @@ In this  Categorical Variable: Job, Marital_Status, Education_Qualification, Cal
 ![1693647152901](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/71113635-3657-4169-b260-48d979f456b3)
 
 * STEP 6:  Encoding the data.
-The process of converting the categorical features into numeric features.
+  The process of converting the categorical features into numeric features.
 
 ![1693647562833](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/c352c257-506d-4699-9242-a2889810093b)
 
@@ -153,9 +153,9 @@ The process of converting the categorical features into numeric features.
 * STEP 8: Model Building.
   In this step 3 Machine learning models used. 
 
-•	Logistic Regression.
-•	Random forest classifier.
-•	XGboost classifier.
+ •	Logistic Regression.
+ •	Random forest classifier.
+ •	XGboost classifier.
 
 * LogisticRegression
   The accuracy of Logistic Regression is :  91.95352088065701 %
@@ -169,11 +169,14 @@ The process of converting the categorical features into numeric features.
   The accuracy of X Gradient Boosting is :  93.4169142058361 %
   The aurroc_auc_score of Gradient Boosting is :  0.9858277950477008
 
-# STEP 9: Feature Importance.
+* STEP 9: Feature Importance.
   Techniques that calculate a score for all the input features for a given model.
+  
+![1693647562842](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/71a4473f-220b-4862-a8bd-c9cb1801e423)
+![1693647562837](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/73416839-87a9-4e2d-9f96-67c775c54b02)
 
-# Step 9: Conclusion.
-Based on the model Evaluation.Got the good score.
+* Final Conclusion.
+  Based on the model Evaluation. Got the good score in Customer Conversion Prediction.
 
  
  
