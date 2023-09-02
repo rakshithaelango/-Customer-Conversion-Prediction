@@ -139,6 +139,7 @@ Bivariate analysis feature of Categorical Columns..
 ![1693647152901](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/71113635-3657-4169-b260-48d979f456b3)
 
 * STEP 6:  Encoding the data.
+  
   The process of converting the categorical features into numeric features.
 
 ![1693647562833](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/c352c257-506d-4699-9242-a2889810093b)
