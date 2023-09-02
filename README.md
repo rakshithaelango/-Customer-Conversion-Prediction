@@ -126,6 +126,17 @@ Call duration impact the model to subcribe the insurance. num_calls made also th
 ![1693645956045](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/53d56d76-5c8e-406f-8cbe-9e37ebe4eff8)
 
 
+Bivariate analysis feature of Categorical Columns..
+
+In this  Categorical Variable: Job, Marital_Status, Education_Qualification, Call_type, Month, Prev_Outcome And Y.
+
+![1693647152916](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/6bb536db-4f07-45bb-8691-a7d3875d17e7)
+![1693647152910](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/4efc2e08-03f1-4dfc-9ca6-d782a9d58af1)
+![1693647152907](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/49cc5d5c-5d7f-464d-94c6-5feeec6e232c)
+![1693647152913](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/a94355aa-7661-4f1a-a98e-3cabebf4dfc1)
+![1693647152904](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/50af112d-a6a9-40ca-b9e4-aae55d3cd2a3)
+![1693647152919](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/23f81eee-c29d-4744-b7df-0f279e6229c0)
+![1693647152901](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/71113635-3657-4169-b260-48d979f456b3)
 
 * STEP 6:  Encoding the data.
 The process of converting the categorical features into numeric features.
