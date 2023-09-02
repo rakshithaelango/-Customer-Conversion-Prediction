@@ -98,6 +98,16 @@ HANDLING OUTLIERS:
 
 This EDA is the backbone of data science. To analyz  and investigate the data sets and summarize their main characteristics. By using data visualization methods. 
 
+TARGET VARIABLES: 
+![1693644888988](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/990ee5bd-9af4-43c2-9dcd-260dde6ed718)
+
+BY,This we can clearly see huge imbalanced data occur.
+
+Univariate analysis feature of categorical variables.
+In this Categorical Variable: Job, Marital_Status, Education_Qualification, Call_type, Month and Prev_Outcome.
+
+
+
 
 
 * STEP 6:  Encoding the data.
