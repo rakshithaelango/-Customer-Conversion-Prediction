@@ -81,6 +81,8 @@ And handling outliers in this method I have  used box plot.
 HANDLING OUTLIERS:
 
 * AGE:
+![1693641773390](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/bbad5381-9cb7-4405-b388-2e45cdbb563f)
+
 
     
 
