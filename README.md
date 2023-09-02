@@ -141,21 +141,36 @@ In this  Categorical Variable: Job, Marital_Status, Education_Qualification, Cal
 * STEP 6:  Encoding the data.
 The process of converting the categorical features into numeric features.
 
+![1693647562833](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/c352c257-506d-4699-9242-a2889810093b)
+
  
-#  Step 7:  Splitting and Scaling the data.
-We used SMOTE method because this whole data set is imbalanced.
-And Splitted the data into train and test splitting.
+* STEP 7:  Splitting and Scaling the data.
+  
+   *  We used SMOTE method because this whole data set is imbalanced.
+   *  And Splitted the data into train and test splitting.
+   *  For Scaling purpose I used Standard scaler.
 
-For Scaling purpose I used Standard scaler.
-
-
-# Step 8:  Model.
-In this step,3 Machine learning models used. 
+* STEP 8: Model Building.
+  In this step 3 Machine learning models used. 
 
 •	Logistic Regression.
 •	Random forest classifier.
 •	XGboost classifier.
 
+* LogisticRegression
+  The accuracy of Logistic Regression is :  91.95352088065701 %
+  The aurroc_auc_score of Logistic Regression is :  0.9747468353247064
+
+* RandomForest
+  The accuracy of Random Forest is :  93.40380919098375 %
+  The aurroc_auc_score of  random forest is :  0.9852591716689892
+
+*  XGboost
+  The accuracy of X Gradient Boosting is :  93.4169142058361 %
+  The aurroc_auc_score of Gradient Boosting is :  0.9858277950477008
+
+# STEP 9: Feature Importance.
+  Techniques that calculate a score for all the input features for a given model.
 
 # Step 9: Conclusion.
 Based on the model Evaluation.Got the good score.
