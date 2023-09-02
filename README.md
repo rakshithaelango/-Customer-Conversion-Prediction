@@ -69,14 +69,9 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 After importing all the necessary packages. Next step is to load the Data by using .csv Format.
 
-* STEP 4:  Data cleaning.
+* STEP 4:  Data cleaning AND Data Pre-processing.
   
-In this step, we understand more about the data and prepare it for further analysis. Cleaning data essentially means removing discrepancies from data such as missing fields, improper values, setting the right format of the data, structuring data from raw files.
-
-* STEP 5:  Exploratory Data Analysis [EDA].
-
-This EDA is the backbone of data science. To analyz  and investigate the data sets and summarize their main characteristics. By using data visualization methods. 
-And handling outliers in this method I have  used box plot.
+In this step, we understand more about the data and prepare it for further analysis. Cleaning data essentially means removing discrepancies from data such as missing fields, improper values, setting the right format of the data, structuring data from raw files And By Analysing the statistical methods handle the outliers and treating the outliers by using box plot.
 
 HANDLING OUTLIERS:
 
@@ -98,6 +93,12 @@ HANDLING OUTLIERS:
   
 ![1693644012380](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/f742b275-7a43-4f48-95c2-4eb43200d343)
 ![1693644012376](https://github.com/rakshithaelango/-Customer-Conversion-Prediction/assets/116090323/6d13b659-91e1-45f9-94e7-4bef25beaac1)
+
+* STEP 5:  Exploratory Data Analysis [EDA].
+
+This EDA is the backbone of data science. To analyz  and investigate the data sets and summarize their main characteristics. By using data visualization methods. 
+
+
 
 * STEP 6:  Encoding the data.
 The process of converting the categorical features into numeric features.
